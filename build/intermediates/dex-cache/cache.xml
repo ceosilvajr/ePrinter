@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ceosilvajr/Dropbox/Development/smith-room/android/ePOSPrintSample/app/libs/ePOS-Print.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86d9f4d0293e70511f95ecbc2f3be9930cbd7164">
+        <dex dex="/Users/ceosilvajr/Dropbox/Development/smith-room/android/ePOSPrintSample/app/build/intermediates/pre-dexed/debug/ePOS-Print-4d3c2293dc441ef420e106de777a116b016614b3.jar" />
+    </item>
+
+</items>
